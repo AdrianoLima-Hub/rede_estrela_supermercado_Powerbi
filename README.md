@@ -8,7 +8,7 @@ Dashboard Power BI voltado à gestão da cadeia de suprimentos (*supply chain*) 
 
 ## Visão geral
 
-O relatório é composto por **5 páginas**, cada uma cobrindo uma frente da operação de supply chain, com identidade visual própria (tema customizado "Rede Estrela", paleta azul `#5858F9`/`#7878F6`, logo da rede e navegação entre páginas via botões).
+O relatório é composto por **5 páginas**, cada uma cobrindo uma frente da operação de supply chain, com identidade visual própria (tema customizado "Rede Estrela"
 
 ### 1. Visão Geral
 Painel executivo com os principais indicadores do negócio:
